@@ -152,8 +152,8 @@ export async function fetchNews() {
     return true;
   });
 
-  // Filter out negative items
-  const filtered = unique.filter((item) => !item._negative);
+  // Filter out negative items AND zero-signal items
+  const filtered = unique.filter((item) => !item._negative && item.positiveScore >= 16);
 
   // Sort: positive-first, then newest
   filtered.sort((a, b) => {

@@ -81,6 +81,11 @@ export const MONITOR_CONFIG = {
     "finally slowing","facing extinction","can't save","too late",
     "nightmare","tearing apart","misread","nanoparticles","lie detector",
     "organ limits","bizarre","monster","abused power","banned renewables",
+    "collision","crash","maut","nahas","disemadikan","salah guna kuasa",
+    "rogue agent","pauses training","lawsuit","die-off","havoc",
+    "drives me nuts","faces an even bigger","era of cheap","hurricane",
+    "sardine","uncertainty after","breaking records","communication problems",
+    "falls 30%","consumer lawsuit","train collision",
   ],
 
   /**
