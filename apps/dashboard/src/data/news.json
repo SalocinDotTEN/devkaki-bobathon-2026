@@ -241,6 +241,36 @@
       "positiveScore": 16
     },
     {
+      "id": "a6f5e84bd4db",
+      "title": "Exclusive: Sham scientific societies are misleading star researchers",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-02980-w",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "positiveScore": 16
+    },
+    {
+      "id": "770bc5033b7f",
+      "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03028-9",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "positiveScore": 16
+    },
+    {
+      "id": "a557961a44fc",
+      "title": "AI bots are flooding researchers with requests for money and time",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03005-2",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "positiveScore": 16
+    },
+    {
       "id": "dc633df93116",
       "title": "UN passes first declaration on sea level rise, protecting island nations’ sovereignty",
       "summary": "The world, including the U.S., agreed that rising seas will not change national borders even as small islands disappear.",
@@ -258,6 +288,16 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-24T08:00:11.000Z",
+      "positiveScore": 16
+    },
+    {
+      "id": "5d3cf2c03d59",
+      "title": "AI system helps lab devices ‘talk’ with each other — streamlining research",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-02990-8",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
       "positiveScore": 16
     },
     {
@@ -601,6 +641,46 @@
       "positiveScore": 0
     },
     {
+      "id": "9a64807d2b05",
+      "title": "China now leads the world in trials for next-gen CAR-T therapies",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03004-3",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "ef32d7d14e47",
+      "title": "Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-02959-7",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "cb7cc6f1ec6d",
+      "title": "Bigger than CRISPR? A guide to the latest genome editors",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-02964-w",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "f28c806dfd2f",
+      "title": "Vaping in childhood has bigger health risks than we’d thought",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-02962-y",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
       "id": "0635bd733fed",
       "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
       "summary": "A single dose of an experimental CRISPR therapy cut LDL cholesterol and triglycerides by about half in patients with difficult-to-treat lipid disorders. The reductions were still present one year later, with the highest dose lowering LDL by 52.5% and triglycerides by 47.8%.",
@@ -941,6 +1021,56 @@
       "positiveScore": 0
     },
     {
+      "id": "ca8d7cf05052",
+      "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03041-y",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "d1e0d0f953db",
+      "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03032-z",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "e58cbdc1b9c7",
+      "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03039-6",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "26bedb25cf41",
+      "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03023-0",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "b0ce89812a0f",
+      "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03016-z",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
       "id": "ad80816fdafe",
       "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
       "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
@@ -1018,6 +1148,66 @@
       "source": "grist.org",
       "category": "Environment",
       "publishedAt": "2026-09-24T08:30:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "7aa5956a72fd",
+      "title": "Bumblebees don’t mind a little plastic in their honeypots",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-02988-2",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "9a27d60a1f73",
+      "title": "Youthful fans of YouTube sports videos stick to the sofa",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-02989-1",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "3ef2cfc8707f",
+      "title": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03020-3",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "d1e8b0b00a46",
+      "title": "AI agent hacks government website for first time: why this breach matters",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03024-z",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "15439bf5a7a9",
+      "title": "Daily briefing: Will AI really be the death of us all?",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03029-8",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "8b08018d03ef",
+      "title": "AlphaFold ‘goes viral’: database adds protein complexes of common viruses",
+      "summary": "",
+      "url": "https://www.nature.com/articles/d41586-026-03022-1",
+      "source": "nature.com",
+      "category": "Science",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
       "positiveScore": 0
     },
     {
@@ -1111,17 +1301,18 @@
       "positiveScore": 0
     }
   ],
-  "fetchedAt": "2026-09-28T12:17:47.225Z",
+  "fetchedAt": "2026-09-28T12:24:34.167Z",
   "sources": [
     "feeds.arstechnica.com",
     "feeds.feedburner.com",
     "freemalaysiatoday.com",
     "grist.org",
+    "nature.com",
     "newscientist.com",
     "sciencedaily.com",
     "technologyreview.com",
     "theguardian.com",
     "wired.com"
   ],
-  "totalCount": 111
+  "totalCount": 130
 }

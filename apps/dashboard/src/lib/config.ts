@@ -51,9 +51,15 @@ export const MONITOR_CONFIG = {
     "no plan","languished","still no","failed to","aren't as protected",
     "finally slowing","facing extinction","can't save","too late",
     // Scary / negative science
-    "nightmare","tearing apart","misread","popping into existence" ,
+    "nightmare","tearing apart","misread","popping into existence",
     "nanoparticles","lie detector","organ limits","bizarre","monster",
     "abused power","summoned","banned renewables",
+    // Accidents, crime, negative events
+    "collision","crash","maut","nahas","disemadikan","salah guna kuasa",
+    "rogue agent","pauses training","lawsuit","die-off","havoc",
+    "drives me nuts","faces an even bigger","era of cheap","hurricane",
+    "sardine","uncertainty after","breaking records","communication problems",
+    "falls 30%","revived","consumer lawsuit","train collision",
   ],
 
   rssFeeds: [

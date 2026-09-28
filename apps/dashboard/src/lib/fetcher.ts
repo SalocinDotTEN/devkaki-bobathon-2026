@@ -148,8 +148,11 @@ export async function fetchNews(): Promise<NewsResult> {
     return true;
   });
 
+  // Drop items with no positive signal at all
+  const scored = unique.filter((item) => item.positiveScore >= 16);
+
   // Sort: positive-score first, then newest
-  unique.sort((a, b) => {
+  scored.sort((a, b) => {
     if (b.positiveScore !== a.positiveScore)
       return b.positiveScore - a.positiveScore;
     return (
@@ -158,7 +161,7 @@ export async function fetchNews(): Promise<NewsResult> {
   });
 
   return {
-    items: unique,
+    items: scored,
     fetchedAt: new Date().toISOString(),
     sources: [...new Set(unique.map((i) => i.source))].sort(),
     totalCount: unique.length,
