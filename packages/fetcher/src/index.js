@@ -152,8 +152,8 @@ export async function fetchNews() {
     return true;
   });
 
-  // Filter out negative items AND low-signal items (need at least 2 positive hits)
-  const filtered = unique.filter((item) => !item._negative && item.positiveScore >= 33);
+  // Filter out negative items AND items with no positive signal at all
+  const filtered = unique.filter((item) => !item._negative && item.positiveScore >= 16);
 
   // Sort: positive-first, then newest
   filtered.sort((a, b) => {

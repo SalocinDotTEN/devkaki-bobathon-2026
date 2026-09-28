@@ -25,13 +25,27 @@ export const MONITOR_CONFIG = {
   },
 
   positiveSignals: [
-    "breakthrough","discovery","innovation","launch","success","growth",
-    "milestone","record","achievement","advance","improve","protect",
-    "restore","recover","renewable","sustainable","solution","progress",
-    "benefit","award","grant","collaboration","research","study finds",
-    "new species","conservation","clean energy","electric","climate solution",
-    "biodiversity","first ever","world first","record-breaking","hope",
-    "heal","revive","thrive","flourish",
+    // Science & discovery
+    "breakthrough","discovery","found","reveals","study","new research",
+    "scientists","researchers","scientists discover","findings","published",
+    "new species","first ever","world first","rare","unique","remarkable",
+    "milestone","record","achievement","advance","innovate","innovation",
+    // Positive outcomes
+    "success","growth","improve","benefit","award","grant","hope",
+    "heal","revive","thrive","flourish","restore","recover","protect",
+    "solution","progress","potential","promising","effective","works",
+    // Environment & nature (neutral-positive framing)
+    "conservation","biodiversity","renewable","sustainable","clean energy",
+    "electric","climate solution","rewilding","habitat","ecosystem","species",
+    "nature","wildlife","ocean","forest","planet","earth","animal",
+    "plant","bird","tree","river","reef","coral","seed","soil",
+    // Tech & AI (neutral-positive)
+    "launch","release","new","tool","model","open source","platform",
+    "collaboration","research","test","experiment","telescope","robot",
+    "quantum","space","nasa","mission","satellite","gene","dna","cell",
+    // Malaysia & local positive
+    "malaysia","initiative","development","community","education","economy",
+    "transformation","achievement","recognition","invest","partnership",
   ],
 
   negativeSignals: [
