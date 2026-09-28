@@ -1,26 +1,6 @@
 {
   "items": [
     {
-      "id": "e49420520912",
-      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although research",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-      "source": "sciencedaily.com",
-      "category": "Science",
-      "publishedAt": "2026-09-27T13:53:39.000Z",
-      "positiveScore": 100
-    },
-    {
-      "id": "bae5ed7cb393",
-      "title": "Marine protected areas aren’t as protected as you think",
-      "summary": "Only 2 percent of the ocean appears to benefit substantially from marine conservation areas, challenging a key metric of the 30x30 campaign.",
-      "url": "https://grist.org/oceans/marine-protected-areas-arent-as-protected-as-you-think/",
-      "source": "grist.org",
-      "category": "Environment",
-      "publishedAt": "2026-09-23T08:30:00.000Z",
-      "positiveScore": 100
-    },
-    {
       "id": "1513e5c48872",
       "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
       "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content cr",
@@ -31,6 +11,26 @@
       "positiveScore": 100
     },
     {
+      "id": "e49420520912",
+      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although research",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+      "source": "sciencedaily.com",
+      "category": "Science",
+      "publishedAt": "2026-09-27T13:53:39.000Z",
+      "positiveScore": 75
+    },
+    {
+      "id": "bae5ed7cb393",
+      "title": "Marine protected areas aren’t as protected as you think",
+      "summary": "Only 2 percent of the ocean appears to benefit substantially from marine conservation areas, challenging a key metric of the 30x30 campaign.",
+      "url": "https://grist.org/oceans/marine-protected-areas-arent-as-protected-as-you-think/",
+      "source": "grist.org",
+      "category": "Environment",
+      "publishedAt": "2026-09-23T08:30:00.000Z",
+      "positiveScore": 75
+    },
+    {
       "id": "dcf970d9be57",
       "title": "Ahrefs vs SEMrush: Which SEO Tool Should You Use?",
       "summary": "SEMrush and Ahrefs are among\nthe most popular tools in the SEO industry. Both companies have been in\nbusiness for years and have thousands of customers per month.\nIf you're a professional SEO or trying to do digital\nmarketing on your own, at some point you'll likely consider using a tool to\nhelp wit",
@@ -38,7 +38,7 @@
       "source": "feeds.feedburner.com",
       "category": "Tech",
       "publishedAt": "2022-03-01T12:16:00.000Z",
-      "positiveScore": 100
+      "positiveScore": 75
     },
     {
       "id": "9bef84b99ee2",
@@ -48,7 +48,7 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-28T11:00:32.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
     },
     {
       "id": "7c54da7b42d7",
@@ -58,7 +58,7 @@
       "source": "wired.com",
       "category": "Tech",
       "publishedAt": "2026-09-28T11:00:00.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
     },
     {
       "id": "cae410fa3d3c",
@@ -68,7 +68,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-27T10:49:13.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
     },
     {
       "id": "ec27a09b540b",
@@ -78,7 +78,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-26T14:38:02.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
     },
     {
       "id": "2170baf78b2e",
@@ -88,7 +88,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-26T13:47:38.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
     },
     {
       "id": "f341fdb5255f",
@@ -98,7 +98,7 @@
       "source": "grist.org",
       "category": "Environment",
       "publishedAt": "2026-09-26T13:00:00.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
     },
     {
       "id": "bc9575a458f6",
@@ -108,7 +108,7 @@
       "source": "feeds.arstechnica.com",
       "category": "Tech",
       "publishedAt": "2026-09-25T18:27:18.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
     },
     {
       "id": "3a5b300cf3cd",
@@ -118,7 +118,7 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-23T15:00:52.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
     },
     {
       "id": "6b2437574997",
@@ -128,7 +128,7 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-22T07:00:37.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
     },
     {
       "id": "d51b21b3cadf",
@@ -138,7 +138,17 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-21T11:00:23.000Z",
-      "positiveScore": 67
+      "positiveScore": 50
+    },
+    {
+      "id": "67dbc47f84c7",
+      "title": "MACC abused power in summoning ex-minister, family, says Waytha",
+      "summary": "The Malaysian Advancement Party president says Section 36 of the MACC Act does not empower the commissioner to require attendance for serving a notice.",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/28/macc-abused-powers-in-summoning-ex-minister-family-says-waytha",
+      "source": "freemalaysiatoday.com",
+      "category": "Malaysia",
+      "publishedAt": "2026-09-28T11:18:00.000Z",
+      "positiveScore": 16
     },
     {
       "id": "a3e3993d1c99",
@@ -148,7 +158,7 @@
       "source": "newscientist.com",
       "category": "Science",
       "publishedAt": "2026-09-28T11:00:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "aa840bd36e02",
@@ -158,7 +168,7 @@
       "source": "wired.com",
       "category": "Tech",
       "publishedAt": "2026-09-28T10:30:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "3d46ea30b058",
@@ -168,7 +178,7 @@
       "source": "grist.org",
       "category": "Environment",
       "publishedAt": "2026-09-28T08:30:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "f115df9ffa75",
@@ -178,7 +188,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-27T13:41:36.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "0c91c2c23ae7",
@@ -188,7 +198,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-27T12:10:17.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "e65867069db7",
@@ -198,7 +208,7 @@
       "source": "wired.com",
       "category": "Tech",
       "publishedAt": "2026-09-27T09:00:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "15a95e45b4eb",
@@ -208,7 +218,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-27T02:49:07.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "bedab8f60189",
@@ -218,7 +228,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-26T14:49:45.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "f73faed17d7c",
@@ -228,7 +238,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-26T12:31:07.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "e899f09f9f93",
@@ -238,7 +248,7 @@
       "source": "feeds.arstechnica.com",
       "category": "Tech",
       "publishedAt": "2026-09-26T10:45:09.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "57a9cb56de86",
@@ -248,7 +258,7 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-26T10:00:32.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "dac2c0379fa6",
@@ -258,7 +268,7 @@
       "source": "feeds.arstechnica.com",
       "category": "Tech",
       "publishedAt": "2026-09-25T14:07:46.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "539e1cb9c89d",
@@ -268,7 +278,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-25T13:56:06.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "cc769f2c0b9d",
@@ -278,7 +288,7 @@
       "source": "sciencedaily.com",
       "category": "Science",
       "publishedAt": "2026-09-25T12:20:18.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "f65d03898c69",
@@ -288,7 +298,7 @@
       "source": "technologyreview.com",
       "category": "Tech",
       "publishedAt": "2026-09-25T12:10:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "d4407016c50e",
@@ -298,7 +308,7 @@
       "source": "newscientist.com",
       "category": "Science",
       "publishedAt": "2026-09-25T11:04:53.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "c36ef5e5a6d6",
@@ -308,7 +318,7 @@
       "source": "feeds.arstechnica.com",
       "category": "Tech",
       "publishedAt": "2026-09-25T11:00:10.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "93b91a44c537",
@@ -318,7 +328,7 @@
       "source": "technologyreview.com",
       "category": "Tech",
       "publishedAt": "2026-09-25T09:16:25.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "3994c6a80fa5",
@@ -328,7 +338,7 @@
       "source": "newscientist.com",
       "category": "Science",
       "publishedAt": "2026-09-25T09:00:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "ff61e97ca4bc",
@@ -338,7 +348,7 @@
       "source": "grist.org",
       "category": "Environment",
       "publishedAt": "2026-09-25T08:45:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "829f21052624",
@@ -348,7 +358,7 @@
       "source": "grist.org",
       "category": "Environment",
       "publishedAt": "2026-09-25T08:30:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "9147b3991be9",
@@ -358,7 +368,7 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-25T05:00:41.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "9762b8941df5",
@@ -368,37 +378,7 @@
       "source": "grist.org",
       "category": "Environment",
       "publishedAt": "2026-09-25T04:30:00.000Z",
-      "positiveScore": 33
-    },
-    {
-      "id": "a6f5e84bd4db",
-      "title": "Exclusive: Sham scientific societies are misleading star researchers",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-02980-w",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "positiveScore": 33
-    },
-    {
-      "id": "770bc5033b7f",
-      "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03028-9",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "positiveScore": 33
-    },
-    {
-      "id": "a557961a44fc",
-      "title": "AI bots are flooding researchers with requests for money and time",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03005-2",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "dc633df93116",
@@ -408,7 +388,7 @@
       "source": "grist.org",
       "category": "Environment",
       "publishedAt": "2026-09-24T17:22:03.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "5feab562e2f5",
@@ -418,17 +398,7 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-24T08:00:11.000Z",
-      "positiveScore": 33
-    },
-    {
-      "id": "5d3cf2c03d59",
-      "title": "AI system helps lab devices ‘talk’ with each other — streamlining research",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-02990-8",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "885c43a5d5fc",
@@ -438,7 +408,7 @@
       "source": "technologyreview.com",
       "category": "Tech",
       "publishedAt": "2026-09-23T09:00:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "238f73d57fa3",
@@ -448,7 +418,7 @@
       "source": "grist.org",
       "category": "Environment",
       "publishedAt": "2026-09-22T08:45:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "67f36cb55d18",
@@ -458,7 +428,7 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-17T04:00:39.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "7299a0c0bbc5",
@@ -468,7 +438,7 @@
       "source": "feeds.feedburner.com",
       "category": "Tech",
       "publishedAt": "2022-06-01T13:03:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
     },
     {
       "id": "6c14f312a2c7",
@@ -478,7 +448,47 @@
       "source": "feeds.feedburner.com",
       "category": "Tech",
       "publishedAt": "2022-01-29T12:45:00.000Z",
-      "positiveScore": 33
+      "positiveScore": 16
+    },
+    {
+      "id": "dd4a5fe1b153",
+      "title": "Signal, communication problems caused Indonesia’s deadly train collision, says report",
+      "summary": "The April collision between a commuter train and a long-distance train occurred in Bekasi, killing 16 people and injuring 107, according to the transportation safety committee.",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/28/signal-communication-problems-caused-indonesia-s-deadly-train-collision-says-report",
+      "source": "freemalaysiatoday.com",
+      "category": "Malaysia",
+      "publishedAt": "2026-09-28T11:41:27.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "a7611f6b345c",
+      "title": "Hasmah selamat disemadikan di Pusara Negara",
+      "summary": "Jenazah isteri bekas perdana menteri Dr Mahathir Mohamad itu disemadikan dengan Istiadat Pengebumian Pembesar Negara.",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/28/hasmah-selamat-disemadikan-di-pusara-negara",
+      "source": "freemalaysiatoday.com",
+      "category": "Malaysia",
+      "publishedAt": "2026-09-28T11:39:50.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "63c2c1e08793",
+      "title": "SPRM salah guna kuasa panggil bekas menteri, keluarga, dakwa Waytha",
+      "summary": "Presiden Parti Kemajuan Malaysia berkata Seksyen 36 Akta SPRM tidak memberi kuasa kepada pesuruhjaya untuk mewajibkan seseorang hadir bagi tujuan menyampaikan notis.",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/28/sprm-salah-guna-kuasa-panggil-bekas-menteri-keluarga-dakwa-waytha",
+      "source": "freemalaysiatoday.com",
+      "category": "Malaysia",
+      "publishedAt": "2026-09-28T11:38:17.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "2e7360970e30",
+      "title": "Dr Hasmah Ali accorded state funeral, laid to rest at Pusara Negara",
+      "summary": "The wife of former prime minister Dr Mahathir Mohamad died at the age of 100 today.",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/28/hasmah-laid-to-rest-at-pusara-negara",
+      "source": "freemalaysiatoday.com",
+      "category": "Malaysia",
+      "publishedAt": "2026-09-28T11:38:00.000Z",
+      "positiveScore": 0
     },
     {
       "id": "ba01a62d5f1b",
@@ -488,6 +498,46 @@
       "source": "wired.com",
       "category": "Tech",
       "publishedAt": "2026-09-28T11:32:19.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "b9687c2f0cc1",
+      "title": "Logistics firm Evocom falls 30% on Bursa debut",
+      "summary": "Its shares fell as much as 5.5 sen below its IPO price of 18 sen on its ACE Market debut.",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/09/28/logistics-firm-evocom-falls-30-on-bursa-debut",
+      "source": "freemalaysiatoday.com",
+      "category": "Malaysia",
+      "publishedAt": "2026-09-28T11:31:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "1538031d6ce5",
+      "title": "Bumi Economic Transformation Plan 2035 reaches 68% implementation",
+      "summary": "Deputy prime minister Ahmad Zahid Hamidi says 214 projects have been completed while 318 are in the implementation phase.",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/28/bumi-economic-transformation-plan-2035-reaches-68-implementation",
+      "source": "freemalaysiatoday.com",
+      "category": "Malaysia",
+      "publishedAt": "2026-09-28T11:10:00.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "3112914c68d6",
+      "title": "Apple, Amazon face revived UK consumer lawsuit over product sales",
+      "summary": "The three-judge tribunal allowed claims relating to Apple products bought through Amazon's marketplace to proceed.",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/09/28/apple-amazon-face-revived-uk-consumer-lawsuit-over-product-sales",
+      "source": "freemalaysiatoday.com",
+      "category": "Malaysia",
+      "publishedAt": "2026-09-28T11:02:58.000Z",
+      "positiveScore": 0
+    },
+    {
+      "id": "7cef6944bd09",
+      "title": "Suami isteri maut dalam nahas 2 kenderaan di Tampin",
+      "summary": "Kejadian di Jalan Gemencheh pagi tadi turut menyebabkan anak lelaki mereka berusia empat tahun mengalami kecederaan.",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/28/suami-isteri-maut-dalam-nahas-2-kenderaan-di-tampin",
+      "source": "freemalaysiatoday.com",
+      "category": "Malaysia",
+      "publishedAt": "2026-09-28T11:01:42.000Z",
       "positiveScore": 0
     },
     {
@@ -621,36 +671,6 @@
       "positiveScore": 0
     },
     {
-      "id": "d6b72b4ebff6",
-      "title": "Polis beku 5 akaun berkait siasatan terhadap Mandiri",
-      "summary": "Polis bagaimanapun tidak mendedahkan nilai yang terlibat.",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/28/polis-bekukan-5-akaun-berkait-siasatan-terhadap-mandiri",
-      "source": "freemalaysiatoday.com",
-      "category": "Malaysia",
-      "publishedAt": "2026-09-28T09:41:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "2489e93f562c",
-      "title": "Bursa ends marginally lower amid lack of fresh catalysts",
-      "summary": "The FBM KLCI is expected to trend within the 1,660-1,690 range this week, says analyst.",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/09/28/bursa-ends-marginally-lower-amid-lack-of-fresh-catalysts",
-      "source": "freemalaysiatoday.com",
-      "category": "Malaysia",
-      "publishedAt": "2026-09-28T09:37:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "9d66716b483f",
-      "title": "PH P Pinang tangguh mesyuarat bincang kedudukan Umno",
-      "summary": "Timbalan Pengerusi PH Pulau Pinang Faiz Fadzil berkata gabungan itu juga belum tetap tarikh baharu bagi perbincangan berkenaan.",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/28/ph-p-pinang-tangguh-mesyuarat-bincang-kedudukan-umno",
-      "source": "freemalaysiatoday.com",
-      "category": "Malaysia",
-      "publishedAt": "2026-09-28T09:32:00.000Z",
-      "positiveScore": 0
-    },
-    {
       "id": "a02745e395f8",
       "title": "The Hotspot | Stumped for wood, bamboo bats offer cricket a substitute to leather on willow",
       "summary": "Traditional woods have had a good innings but rising temperatures mean the need to find alternatives is pressing\nWhat happens if you run out of trees? It is a situation cricket must face in the perfect storm of an expanding game and more precarious growing conditions due to accelerated climate chang",
@@ -671,46 +691,6 @@
       "positiveScore": 0
     },
     {
-      "id": "515807c0dbcf",
-      "title": "Cops posed more than 60 questions, says former Negeri Sembilan exco man",
-      "summary": "Officers from Bukit Aman classified crime investigation unit quiz 10 executive councillors whose appointments were revoked on Sept 20.",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/28/we-were-asked-more-than-60-questions-says-former-negeri-sembilan-exco-man",
-      "source": "freemalaysiatoday.com",
-      "category": "Malaysia",
-      "publishedAt": "2026-09-28T09:23:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "12b705224b86",
-      "title": "Netherlands regrets Israel’s decision to revoke diplomats’ accreditation",
-      "summary": "The Hague says the decision to suspend imports from the occupied territories in the West Bank was 'not directed against Israel'.",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/28/netherlands-regret-over-israel-s-decision-to-revoke-diplomats-accreditation",
-      "source": "freemalaysiatoday.com",
-      "category": "Malaysia",
-      "publishedAt": "2026-09-28T09:10:31.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "74bf480a7014",
-      "title": "More climate data needed to reassure foreign investors, says SC chief",
-      "summary": "Faiz Azmi says climate resilience will become a bigger factor in the competition for foreign direct investment.",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/09/28/more-climate-data-needed-to-reassure-foreign-investors-says-sc-chief",
-      "source": "freemalaysiatoday.com",
-      "category": "Malaysia",
-      "publishedAt": "2026-09-28T09:09:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "07905e2e8412",
-      "title": "Polis Sabah nasihat tangguh konsert Israel Houghton",
-      "summary": "Pesuruhjaya Polis Sabah, Jauteh Dikun berkata pendirian itu ambil kira reaksi orang ramai serta sensitiviti masyarakat.",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/28/polis-sabah-nasihat-tangguh-konsert-israel-houghton",
-      "source": "freemalaysiatoday.com",
-      "category": "Malaysia",
-      "publishedAt": "2026-09-28T09:06:43.000Z",
-      "positiveScore": 0
-    },
-    {
       "id": "6eaf16d9dfa3",
       "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
       "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
@@ -718,26 +698,6 @@
       "source": "wired.com",
       "category": "Tech",
       "publishedAt": "2026-09-28T09:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "a5aeff59f617",
-      "title": "Sabah cops to advise postponing US gospel singer Israel Houghton’s concert",
-      "summary": "State police commissioner Jauteh Dikun says two reports have been lodged over the concert.",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/28/sabah-cops-to-advise-postponing-us-gospel-singer-israel-houghton-s-concert",
-      "source": "freemalaysiatoday.com",
-      "category": "Malaysia",
-      "publishedAt": "2026-09-28T09:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "bc50530e7508",
-      "title": "Rakan JV boleh saman tuntut semula wang, putus mahkamah",
-      "summary": "Mahkamah Persekutuan benar rayuan Pelorus Holding Sdn Bhd berhubung tindakan terhadap 3 pihak yang pernah jadi rakan kongsinya.",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/28/rakan-jv-boleh-saman-tuntut-semula-wang-putus-mahkamah",
-      "source": "freemalaysiatoday.com",
-      "category": "Malaysia",
-      "publishedAt": "2026-09-28T08:40:00.000Z",
       "positiveScore": 0
     },
     {
@@ -778,46 +738,6 @@
       "source": "theguardian.com",
       "category": "Environment",
       "publishedAt": "2026-09-28T04:00:23.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "9a64807d2b05",
-      "title": "China now leads the world in trials for next-gen CAR-T therapies",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03004-3",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "ef32d7d14e47",
-      "title": "Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-02959-7",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "cb7cc6f1ec6d",
-      "title": "Bigger than CRISPR? A guide to the latest genome editors",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-02964-w",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "f28c806dfd2f",
-      "title": "Vaping in childhood has bigger health risks than we’d thought",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-02962-y",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
       "positiveScore": 0
     },
     {
@@ -1161,56 +1081,6 @@
       "positiveScore": 0
     },
     {
-      "id": "ca8d7cf05052",
-      "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03041-y",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "d1e0d0f953db",
-      "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03032-z",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "e58cbdc1b9c7",
-      "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03039-6",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "26bedb25cf41",
-      "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03023-0",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "b0ce89812a0f",
-      "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03016-z",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
       "id": "ad80816fdafe",
       "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
       "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
@@ -1288,66 +1158,6 @@
       "source": "grist.org",
       "category": "Environment",
       "publishedAt": "2026-09-24T08:30:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "7aa5956a72fd",
-      "title": "Bumblebees don’t mind a little plastic in their honeypots",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-02988-2",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "9a27d60a1f73",
-      "title": "Youthful fans of YouTube sports videos stick to the sofa",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-02989-1",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "3ef2cfc8707f",
-      "title": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03020-3",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "d1e8b0b00a46",
-      "title": "AI agent hacks government website for first time: why this breach matters",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03024-z",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "15439bf5a7a9",
-      "title": "Daily briefing: Will AI really be the death of us all?",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03029-8",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "positiveScore": 0
-    },
-    {
-      "id": "8b08018d03ef",
-      "title": "AlphaFold ‘goes viral’: database adds protein complexes of common viruses",
-      "summary": "",
-      "url": "https://www.nature.com/articles/d41586-026-03022-1",
-      "source": "nature.com",
-      "category": "Science",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
       "positiveScore": 0
     },
     {
@@ -1441,18 +1251,17 @@
       "positiveScore": 0
     }
   ],
-  "fetchedAt": "2026-09-28T11:56:03.184Z",
+  "fetchedAt": "2026-09-28T12:10:51.669Z",
   "sources": [
     "feeds.arstechnica.com",
     "feeds.feedburner.com",
     "freemalaysiatoday.com",
     "grist.org",
-    "nature.com",
     "newscientist.com",
     "sciencedaily.com",
     "technologyreview.com",
     "theguardian.com",
     "wired.com"
   ],
-  "totalCount": 144
+  "totalCount": 125
 }

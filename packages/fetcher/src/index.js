@@ -49,7 +49,8 @@ function isNegative(item) {
 function positiveScore(item) {
   const text = lc(`${item.title} ${item.contentSnippet || item.summary || ""}`);
   const hits = MONITOR_CONFIG.positiveSignals.filter((sig) => text.includes(lc(sig)));
-  return Math.min(100, Math.round((hits.length / 3) * 100));
+  if (hits.length < 2) return Math.min(33, hits.length * 16);
+  return Math.min(100, Math.round((hits.length / 4) * 100));
 }
 
 /**

@@ -48,7 +48,9 @@ function scorePositive(title: string, snippet: string): number {
   const hits = MONITOR_CONFIG.positiveSignals.filter((sig) =>
     text.includes(lc(sig))
   );
-  return Math.min(100, Math.round((hits.length / 3) * 100));
+  // Need at least 2 signal hits to score above 0; cap at 100
+  if (hits.length < 2) return Math.min(33, hits.length * 16);
+  return Math.min(100, Math.round((hits.length / 4) * 100));
 }
 
 async function fetchFeed(url: string, category: string): Promise<NewsItem[]> {

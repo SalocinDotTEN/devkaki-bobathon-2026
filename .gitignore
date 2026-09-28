@@ -1,1 +1,15 @@
 node_modules
+
+# Build output
+apps/dashboard/dist/
+apps/dashboard/.vercel/
+
+# Environment
+.env
+
+# Generated news snapshot
+apps/dashboard/src/data/news.json
+
+# Logs
+logs/
+*.log
