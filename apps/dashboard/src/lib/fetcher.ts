@@ -148,8 +148,8 @@ export async function fetchNews(): Promise<NewsResult> {
     return true;
   });
 
-  // Drop items with no positive signal at all
-  const scored = unique.filter((item) => item.positiveScore >= 16);
+  // Drop items with insufficient positive signal (need at least 2 hits)
+  const scored = unique.filter((item) => item.positiveScore >= 33);
 
   // Sort: positive-score first, then newest
   scored.sort((a, b) => {
