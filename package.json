@@ -1,0 +1,15 @@
+{
+  "name": "newsjack-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/dashboard",
+    "packages/fetcher"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=apps/dashboard",
+    "build": "npm run build --workspace=apps/dashboard",
+    "fetch": "npm run fetch --workspace=packages/fetcher",
+    "fetch:local": "npm run fetch:local --workspace=packages/fetcher"
+  }
+}

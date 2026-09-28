@@ -1,0 +1,17 @@
+{
+  "name": "@newsjack-monitor/fetcher",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "fetch": "node src/run.js",
+    "fetch:local": "node src/run-local.js"
+  },
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "rss-parser": "^3.13.0",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.5"
+  }
+}
