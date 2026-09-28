@@ -35,13 +35,25 @@ export const MONITOR_CONFIG = {
   ],
 
   negativeSignals: [
+    // War & conflict
     "war","warfare","military strike","airstrike","bombing","missile",
     "explosion","attack","conflict","battle","ceasefire","casualt",
-    "death toll","killed","soldiers","troops","election fraud",
-    "political scandal","corruption","impeach","sanction","parliament row",
-    "cabinet reshuffle","party leader","opposition","protest violence",
-    "riot","insurgency","terrorism","extremist","propaganda","geopolit",
-    "massacre","assassination","coup","siege",
+    "death toll","killed","soldiers","troops",
+    // Politics
+    "election fraud","political scandal","corruption","impeach","sanction",
+    "parliament row","cabinet reshuffle","party leader","opposition",
+    "protest violence","riot","insurgency","terrorism","extremist",
+    "propaganda","geopolit","massacre","assassination","coup","siege",
+    // Health doom / negative medical
+    "alzheimer","dementia","cancer risk","linked to faster","may persist",
+    "chronic pain","overdose","opioid","mental illness worsens",
+    // Environmental doom framing
+    "no plan","languished","still no","failed to","aren't as protected",
+    "finally slowing","facing extinction","can't save","too late",
+    // Scary / negative science
+    "nightmare","tearing apart","misread","popping into existence" ,
+    "nanoparticles","lie detector","organ limits","bizarre","monster",
+    "abused power","summoned","banned renewables",
   ],
 
   rssFeeds: [

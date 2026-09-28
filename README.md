@@ -23,6 +23,7 @@ This project was designed and scaffolded entirely through a conversation with **
 | **Vercel deployment** | Bob added `@astrojs/vercel` SSR adapter, wrote `vercel.json` with a daily 07:00 UTC cron pointing at `/api/news`, and documented the required env vars. |
 | **Local scheduling** | Bob wrote a `node-cron` daemon (`run-local.js`) for keeping news fresh without a cloud, and a `register-task.ps1` script to register it as a persistent Windows Task Scheduler job. |
 | **Docs** | Bob wrote this README, the `.env.example`, and the Bob section you are reading now — at the user's request. |
+| **Content filtering v2** | When the user flagged non-positive stories slipping through (Alzheimer's, "nightmare fuel", "tearing apart", "no plan", etc.), Bob inspected the live `news.json`, identified the patterns in under 60 seconds, and extended both `negativeSignals` lists with four new categories: negative medical, environmental doom framing, scary science language, and power/abuse framing. Item count dropped from 125 → 111 — tighter, cleaner feed. |
 
 ### The prompt that started it all
 
